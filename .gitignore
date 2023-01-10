@@ -1,0 +1,4 @@
+#eliminate possible pandoc outputs made for testing
+*.html 
+*.pdf 
+
