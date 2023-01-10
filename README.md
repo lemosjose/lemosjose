@@ -22,7 +22,6 @@ I am currently studying Computer Engineering at UEMG (Universidade do Estado de 
 
 ### This is it for now! You are welcome to check my other projects!
 
-<iframe src="https://giphy.com/embed/kfetGxFRkD9jq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/absurdnoise-80s-kfetGxFRkD9jq"></a></p>
 
 
 
