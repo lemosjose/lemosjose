@@ -2,28 +2,39 @@
 
 ## About:
 
-- I am into Open-Source software and philosophy 
-- Currently studying React and Spring Framework for Web development
+- I am into Open-Source stuff
+- Currently Working in Django as an Intern in my University and as a Freelancer with Other folks
 - Computer Enginnering Undergraduate at UEMG (Universidade do Estado de Minas Gerais)
 
-### ⚙️ Tools and SKills:
+### ⚙️ Work Tooling:
 
-[![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Asciidoctor](https://img.shields.io/badge/asciidoctor-%E40046.svg?style=for-the-badge&logo=asciidoctor)
-![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux)
+<a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40" /></a>
+<a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="40" height="40"/></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" /></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" width="40" height="40" /></a>
+<a href="https://www.vuejs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="VueJS" width="40" height="40" /></a>
 
-## Github Overview:
-
-![lemosjose's Github stats](https://github-readme-stats.vercel.app/api?username=lemosjose&count_private=true&show_icons=true&theme=react)
+<a href="https://www.raspberrypi.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="40" height="40" /></a>
+<a href="https://www.kernel.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" /></a>
 
 
 ## Contact:
-[![Email](https://img.shields.io/badge/Gmail-%EA4335.svg?style=for-the-badge&logo=gmail)](mailto:devlemosjose@gmail.com.com)
 
+
+<a href="mailto:devlemosjose@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/lemosjose/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>
+
+### Github-Data 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemosjose&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemosjose&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lemosjose&theme=github)
+
+
+![](https://komarev.com/ghpvc/?username=lemosjose)
 
 
 
