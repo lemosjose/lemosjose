@@ -3,8 +3,9 @@
 ## About:
 
 - I am into Open-Source stuff
-- Currently Working in Django as an Intern in my University and as a Freelancer with Other folks
-- Computer Enginnering Undergraduate at UEMG (Universidade do Estado de Minas Gerais)
+- Currently learning Python, already proficient with Django/DRF, learning FastAPI and Flask
+- I also like to play around with Nix/NixOS
+- Computer Science Undergraduate at IFTM (Instituto Federal do Triângulo Mineiro)
 
 ### ⚙️ Work Tooling:
 
