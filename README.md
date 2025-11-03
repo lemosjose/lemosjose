@@ -25,7 +25,7 @@
 ## 📚 Learning: 
 
 <a href="https://www.haskell.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/haskell/haskell-vertical.svg" alt="Haskell" width="40" height="40" /></a>
-<a href="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg" target="_blank"><img src="" alt="CLisp" width="40" height="40" /></a>
+<a href="https://lisp-lang.org/" src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg" target="_blank"><img src="" alt="CLisp" width="40" height="40" /></a>
 
 
 ## Contact:
