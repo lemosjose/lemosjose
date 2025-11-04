@@ -9,7 +9,7 @@
 - I also enjoy experimenting with Nix/NixOS.
 - Currently pursuing a Computer Science Undergraduate degree at IFTM (Instituto Federal do Triângulo Mineiro).
 
-### ⚙️ Working with:
+### ⚙️ Curretnly Working with:
 
 <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" /></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" /></a>
@@ -25,7 +25,8 @@
 ## 📚 Learning: 
 
 <a href="https://www.haskell.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/haskell/haskell-vertical.svg" alt="Haskell" width="40" height="40" /></a>
-<a href="https://lisp-lang.org/" src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg" target="_blank"><img src="" alt="CLisp" width="40" height="40" /></a>
+<a href="https://lisp-lang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg" alt="CLisp" width="40" height="40" /></a>
+<a href="https://elixir-lang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40" /></a>
 
 
 ## Contact:
@@ -34,14 +35,12 @@
 <a href="mailto:devlemosjose@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/lemosjose/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>
 
-### Github-Data 
+###  Metrics (from lowlighter/metrics)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemosjose&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemosjose&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lemosjose&theme=github)
+![Metrics](/github-metrics.svg) 
 
 
-![](https://komarev.com/ghpvc/?username=lemosjose)
+
 
 
 
