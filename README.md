@@ -9,17 +9,21 @@
 - I also enjoy experimenting with Nix/NixOS.
 - Currently pursuing a Computer Science Undergraduate degree at IFTM (Instituto Federal do Triângulo Mineiro).
 
-### ⚙️ Curretnly Working with:
+### ⚙️ Currently Working with:
 
 <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" /></a>
+<a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40" /></a>
-<a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="40" height="40"/></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" /></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" width="40" height="40" /></a>
+<a href="https://fastify.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" alt="Fastify" width="40" height="40" /></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="NodeJS" width="40" height="40" /></a>
 <a href="https://react.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" /></a>
+<a href="https://nixos.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" alt="Nix" width="40" height="40" /></a>
 <a href="https://www.kernel.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" /></a>
+
 
 
 ## 📚 Learning: 
