@@ -2,12 +2,12 @@
 
 ## About:
 
-- Full-stack Developer specializing in the React/Vite (TypeScript) frontend and Python/FastAPI backend environments.
-- Deeply engaged with the open-source ecosystem and exploring cutting-edge technologies like Rust and Golang for backend development.
-- Experienced Python developer, primarily working with FastAPI, and also skilled with Django/DRF.
-- Passionate about the frontend, focusing on implementing good practices, modern workflows, and innovative development forms utilizing AI and contemporary tools.
-- I also enjoy experimenting with Nix/NixOS.
-- Currently pursuing a Computer Science Undergraduate degree at IFTM (Instituto Federal do Triângulo Mineiro).
+- Data Engineer @ nuageit, working with Data Pipelines, AWS Managed Services and the Apache Ecossystem for Data Engineering
+- Deeply engaged with Go, Phoenix and new Cutting-Edge and Open-Source Technologies
+- Experienced Python BackEnd developer, primarily working with FastAPI, and also skilled with Flask and Django/DRF.
+- Passionate about Tech and in love with the Learning Process 
+- Nix enthusiast
+- CompSci Undergraduate @ IFTM (Brazil)
 
 ### ⚙️ Currently Working with:
 
@@ -17,13 +17,17 @@
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" /></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" width="40" height="40" /></a>
 <a href="https://fastify.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" alt="Fastify" width="40" height="40" /></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="NodeJS" width="40" height="40" /></a>
 <a href="https://react.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" /></a>
 <a href="https://nixos.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" alt="Nix" width="40" height="40" /></a>
 <a href="https://www.kernel.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" /></a>
-
+<a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40" height="40" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" /></a>
+<a href="https://www.phoenixframework.org/" target="_blank"><img src="https://cdn.simpleicons.org/phoenixframework" alt="Phoenix Framework" width="40" height="40" /></a>
+<a href="https://airflow.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Apache Airflow" width="40" height="40" /></a>
+<a href="https://iceberg.apache.org/" target="_blank"><img src="https://cdn.simpleicons.org/apacheiceberg" alt="Apache Iceberg" width="40" height="40" /></a>
 
 
 ## 📚 Learning: 
