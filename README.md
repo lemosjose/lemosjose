@@ -36,10 +36,6 @@
 <a href="mailto:devlemosjose@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/lemosjose/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40" /></a>
 
-###  Metrics (from lowlighter/metrics)
-
-![Metrics](/github-metrics.svg) 
-
 
 
 
