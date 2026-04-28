@@ -9,26 +9,31 @@
 - Nix enthusiast
 - CompSci Undergraduate @ IFTM (Brazil)
 
-### ⚙️ Currently Working with:
+### Tooling/Stacks:
 
-<a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" /></a>
-<a href="https://react.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" /></a>
-<a href="https://nixos.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" alt="Nix" width="40" height="40" /></a>
-<a href="https://www.kernel.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" /></a>
-<a href="https://www.phoenixframework.org/" target="_blank"><img src="https://cdn.simpleicons.org/phoenixframework" alt="Phoenix Framework" width="40" height="40" /></a>
+<div align="left">
+    <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" /></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" /></a>
+    <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40" /></a>
+    <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" /></a>
+    <a href="https://react.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" /></a>
+    <a href="https://nixos.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" alt="Nix" width="40" height="40" /></a>
+    <a href="https://www.kernel.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" /></a>
+    <a href="https://aws.amazon.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" /></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" /></a>
+    <a href="https://elixir-lang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40" /></a>
+    <a href="https://www.phoenixframework.org/" target="_blank"><img src="https://cdn.simpleicons.org/phoenixframework" alt="Phoenix Framework" width="40" height="40" /></a>
+</div>
 
-## 📚 Learning: 
 
-<a href="https://www.haskell.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/haskell/haskell-vertical.svg" alt="Haskell" width="40" height="40" /></a>
-<a href="https://lisp-lang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg" alt="CLisp" width="40" height="40" /></a>
-<a href="https://elixir-lang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40" /></a>
 
+## GitHub Stats:
+
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=lemosjose&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemosjose&layout=compact&theme=dark&rank_icon=github" alt="Top Languages" />
+</div>
 
 ## Contact:
 
