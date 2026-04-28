@@ -13,7 +13,7 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemosjose&theme=github&exclude=html,shell,handlebars) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemosjose&theme=github&exclude=html,shell,handlebars) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemosjose&theme=github&exclude=html,shell,handlebars, tex) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lemosjose&theme=github&exclude=html,shell,handlebars)
 
 ## Contact:
