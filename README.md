@@ -9,14 +9,12 @@
 - Nix enthusiast
 - CompSci Undergraduate @ IFTM (Brazil)
 
-### Tooling/Stacks:
-
-[<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40" />](https://www.python.org/) [<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40" />](https://www.docker.com/) [<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40" />](https://www.postgresql.org/) [<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" />](https://cloud.google.com/) [<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40" />](https://www.typescriptlang.org/) [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" />](https://react.dev/) [<img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" alt="Nix" width="40" height="40" />](https://nixos.org/) [<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" />](https://www.kernel.org/) [<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40" />](https://aws.amazon.com/) [<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40" />](https://www.mongodb.com/) [<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40" />](https://elixir-lang.org) [<img src="https://cdn.simpleicons.org/phoenixframework" alt="Phoenix Framework" width="40" height="40" />](https://www.phoenixframework.org/)
-
 ## GitHub Stats:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemosjose&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemosjose&theme=github&exclude=html,shell,handlebars) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemosjose&theme=github&exclude=html,shell,handlebars) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lemosjose&theme=github&exclude=html,shell,handlebars)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lemosjose&theme=github&exclude=html,shell,handlebars) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lemosjose&theme=github&exclude=html,shell,handlebars) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lemosjose&theme=github&exclude=html,shell,handlebars)
 
 ## Contact:
 
